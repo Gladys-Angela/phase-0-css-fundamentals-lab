@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {text-align: center;}
+
+nav {text-align: center;}
+
+nav a{
+padding: 10px;
+}
+img{
+  margin-left: 170px;
+}
+figcaption{
+  text-align: center;
+}
+#Lorem {
+  text-align: center;
+  margin-left: 27.5%;
+  margin-right: 27.5%;
+}
+#details{
+  background-color: red;
+  display: flex;
+  justify-content: center;
+}
+#details > div{
+padding: 20px;
+padding-inline: 5%;
+
+
+
+}
